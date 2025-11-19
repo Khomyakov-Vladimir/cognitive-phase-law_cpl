@@ -1,0 +1,11 @@
+# Auto-generated Conda environment for CPL simulation
+# Generated on: 2025-11-18T20:17:17.549432
+
+name: cpl_v3.0-env
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib=3.10.8
+  - numpy=2.3.5
+  - python=3.11.14
+  - scipy=1.16.3
