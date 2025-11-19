@@ -1,0 +1,41 @@
+{
+  "title": "The Law of Cognitive Phases (CPL): Formalizing Observer State Transitions in Subjective Physics",
+  "creators": [
+    {
+      "name": "Khomyakov, Vladimir",
+      "affiliation": "Independent Researcher",
+      "orcid": "https://orcid.org/0009-0006-3074-9145"
+    }
+  ],
+  "description": "This work introduces the Cognitive Phase Law (CPL), a formal principle describing the dynamics of cognitive state transitions in observers. Building on the Minimal Model of Subjective Physics, CPL characterizes discrete cognitive phases and the conditions under which transitions occur. The law predicts hysteresis effects and critical slowing during cognitive transitions, empirically testable via neurodynamics (EEG, fMRI) and behavioral paradigms.",
+  "license": "MIT",
+  "keywords": [
+    "subjective physics",
+    "cognitive projection",
+    "observer entropy",
+    "cognitive phase law",
+    "phase transition",
+    "entropy dynamics",
+    "neural synchronization",
+    "collective intelligence",
+    "information theory",
+    "simulation framework"
+  ],
+  "version": "1.0",
+  "upload_type": "software",
+  "doi": "10.5281/zenodo.16907843",
+  "publication_date": "2025-08-20",
+  "language": "en",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "10.5281/zenodo.16907842",
+      "scheme": "doi"
+    },
+    {
+      "relation": "isBasedOn",
+      "identifier": "10.5281/zenodo.16888675",
+      "scheme": "doi"
+    }
+  ]
+}
