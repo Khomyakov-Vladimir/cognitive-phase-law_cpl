@@ -1,6 +1,0 @@
-# Auto-generated minimal dependencies for CPL simulation
-# Generated on: 2025-11-18T20:17:17.549432
-
-matplotlib==3.10.8
-numpy==2.3.5
-scipy==1.16.3
