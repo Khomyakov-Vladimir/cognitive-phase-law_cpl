@@ -1,0 +1,38 @@
+{
+  "title": "The Law of Cognitive Phases (CPL): Formalizing Observer State Transitions in Subjective Physics",
+  "creators": [
+    {
+      "name": "Khomyakov, Vladimir",
+      "affiliation": "Independent Researcher",
+      "orcid": "https://orcid.org/0009-0006-3074-9145"
+    }
+  ],
+  "description": "Version 3.0 presents the Cognitive Phase Law (CPL)—a formal principle governing discrete state transitions in cognitive observers within the paradigm of Subjective Physics. The law defines three canonical phases — Cognitive Coherence, Cognitive Fragmentation, and Reorganization—based on observer entropy, projection stability, and entropy rate. Reproducible simulations (seed=42) validate predicted hysteresis, critical slowing, and path-dependent transitions, confirming cognition as a non-equilibrium system with quantifiable phase-space topology.\n\nSee also: Khomyakov (2025), Comment on Evans (2025), DOI:10.5281/zenodo.17469210",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "subjective physics",
+    "cognitive projection",
+    "observer entropy",
+    "cognitive phase law",
+    "phase transition",
+    "entropy dynamics",
+    "hysteresis"
+  ],
+  "version": "3.0",
+  "upload_type": "publication",
+  "doi": "10.5281/zenodo.17679840",
+  "publication_date": "2025-11-22",
+  "language": "en",
+  "related_identifiers": [
+    {
+      "relation": "isNewVersionOf",
+      "identifier": "10.5281/zenodo.16917758",
+      "scheme": "doi"
+    },
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/Khomyakov-Vladimir/cognitive-phase-law_cpl",
+      "scheme": "url"
+    }
+  ]
+}
