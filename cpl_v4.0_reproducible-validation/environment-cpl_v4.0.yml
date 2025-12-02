@@ -1,0 +1,8 @@
+name: cpl_v4-env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy=2.3.5
+  - scipy=1.16.3
+  - matplotlib=3.10.8
