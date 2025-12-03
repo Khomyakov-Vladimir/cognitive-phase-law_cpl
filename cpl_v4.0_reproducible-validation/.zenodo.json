@@ -1,0 +1,43 @@
+{
+  "title": "The Law of Cognitive Phases (CPL): Formalizing Observer State Transitions in Subjective Physics",
+  "creators": [
+    {
+      "name": "Khomyakov, Vladimir",
+      "affiliation": "Independent Researcher",
+      "orcid": "https://orcid.org/0009-0006-3074-9145"
+    }
+  ],
+  "description": "Version 4.0 separates the invariant Cognitive Phase Law (CPL)—defining three phases: Coherence, Fragmentation, and Reorganization—from its computational realization. Using reproducible simulations (seed = 42) with bifurcated ensemble sampling (n = 200) that avoids the intractable critical-slowing region near Hc=ln3, it validates phase-dependent hysteresis, rare discrete transitions, and deep attractor basins. Correlation analysis confirms transitions are emergent (|r| < 0.12 with noise) and structurally reflect the designed bifurcation. CPL 4.0 does not claim empirical calibration; all code, raw data, and figures are archived for full reproducibility.",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "cognitive phase law",
+    "subjective physics",
+    "observer entropy",
+    "cognitive projection",
+    "phase transition",
+    "cognitive coherence",
+	"cognitive fragmentation",
+	"reorganization phase",
+	"hysteresis",
+    "critical slowing",
+    "non-equilibrium cognition",
+    "reproducible simulation"
+  ],
+  "version": "4.0",
+  "upload_type": "publication",
+  "doi": "10.5281/zenodo.17788635",
+  "publication_date": "2025-12-02",
+  "language": "en",
+  "related_identifiers": [
+    {
+      "relation": "isNewVersionOf",
+      "identifier": "10.5281/zenodo.17679840",
+      "scheme": "doi"
+    },
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/Khomyakov-Vladimir/cognitive-phase-law_cpl",
+      "scheme": "url"
+    }
+  ]
+}
