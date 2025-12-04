@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Law of Cognitive Phases (CPL): Formalizing Observer State Transitions in Subjective Physics"
+version: "3.0"
+doi: "10.5281/zenodo.17679840"
+url: "https://doi.org/10.5281/zenodo.17679840"
+date-released: 2025-11-22
+publisher: "Zenodo"
+authors:
+  - family-names: "Khomyakov"
+    given-names: "Vladimir"
+keywords:
+  - subjective physics
+  - cognitive projection
+  - observer entropy
+  - cognitive phase law
+  - phase transition
+  - entropy dynamics
+  - hysteresis
+abstract: >
+  Version 3.0 presents the *Cognitive Phase Law* (CPL), a formal and fully specified law governing discrete transitions between cognitive states in observers. Building on the Minimal Model of Subjective Physics (Versions 10–12), CPL defines three canonical cognitive phases—**Cognitive Coherence**, **Cognitive Fragmentation**, and **Reorganization**—as regions in the space of observer entropy Hₒᵦₛ, projection stability S, and entropy rate |dHₒᵦₛ/dt|. Critical thresholds (H꜀ = ln 3, S꜀ = 0.7, γ) determine when transitions occur, establishing cognition as a threshold-driven, non-equilibrium dynamical system.
+
+  A fully reproducible simulation framework (seed=42) validates the core predictions of CPL, including **hysteresis**, **critical slowing** near phase boundaries, and **rare, discrete transitions** between stable cognitive attractors. Ensemble analyses confirm that phase transitions are emergent phenomena independent of model parameters.
+
+  The results align with recent empirical findings in neurocognitive dynamics, where entropy surges and behavioral fluctuations precede insight-like transitions. CPL thus provides a unified theoretical and computational basis for predicting cognitive phase changes and their observable signatures in EEG, fMRI, and behavioral protocols.
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Khomyakov"
+      given-names: "Vladimir"
+  title: "The Law of Cognitive Phases (CPL): Formalizing Observer State Transitions in Subjective Physics"
+  version: "3.0"
+  publisher: "Zenodo"
+  year: 2025
+  month: 11
+  doi: "10.5281/zenodo.17679840"
+  url: "https://doi.org/10.5281/zenodo.17679840"
