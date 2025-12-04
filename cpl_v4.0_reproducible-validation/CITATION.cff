@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Law of Cognitive Phases (CPL): Formalizing Observer State Transitions in Subjective Physics"
+version: "4.0"
+doi: "10.5281/zenodo.17788635"
+url: "https://doi.org/10.5281/zenodo.17788635"
+date-released: 2025-12-02
+publisher: "Zenodo"
+authors:
+  - family-names: "Khomyakov"
+    given-names: "Vladimir"
+keywords:
+  - cognitive phase law
+  - subjective physics
+  - observer entropy
+  - cognitive projection
+  - phase transition
+  - cognitive coherence
+  - cognitive fragmentation
+  - reorganization phase
+  - hysteresis
+  - critical slowing
+  - non-equilibrium cognition
+  - reproducible simulation
+abstract: >
+Version 4.0 of the Cognitive Phase Law (CPL) presents a methodologically transparent and reproducible formulation of a formal law governing discrete transitions between cognitive estados in observers. Building on the Minimal Model of Subjective Physics (Versions 10–12) and the Cognitive Uncertainty Principle (CUP), CPL defines three canonical phases—Cognitive Coherence, Cognitive Fragmentation, and Reorganization—as regions in the space of observer entropy H_obs, projection stability S, and entropy rate |Ḣ_obs|, with critical thresholds H_c = ln 3, S_c = 0.7, and γ = 0.1 (in natural units).
+
+This work establishes a clear separation between the theoretical layer (the invariant CPL law) and the computational layer (algorithmic conventions for simulation), resolving ambiguities identified in Version 3.0. A fully reproducible simulation framework (seed = 42) validates core predictions—including phase-dependent hysteresis, rare discrete transitions, and deep attractor basins—using bifurcated ensemble sampling (n = 200) far from the critical region to avoid intractable critical slowing. Correlation analysis confirms that transitions are largely independent of noise parameters (|r| < 0.12), while showing expected dependencies on target entropy due to the bifurcation structure of the experimental design.
+
+Importantly, CPL 4.0 does not claim empirical validation. It provides a minimal, self-contained computational theory grounded in information geometry, with all code, raw data, and figures archived for full reproducibility. The framework aligns structurally with recent empirical reports of entropy surges preceding insight (e.g., Tabatabaeian et al., PNAS 2025), but treats such alignment as a conceptual correspondence—not direct calibration.
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Khomyakov"
+      given-names: "Vladimir"
+  title: "The Law of Cognitive Phases (CPL): Formalizing Observer State Transitions in Subjective Physics"
+  version: "4.0"
+  publisher: "Zenodo"
+  year: 2025
+  month: 12
+  doi: "10.5281/zenodo.17788635"
+  url: "https://doi.org/10.5281/zenodo.17788635"
